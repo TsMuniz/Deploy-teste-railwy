@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node src"
+    "start": "node src",
+    "build": "node src"
   },
   "repository": {
     "type": "git",
